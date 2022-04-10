@@ -27,6 +27,11 @@ class chart:
 class_call = chart
 table_of_chart = class_call.chart_maker()
 
+'''
+Command line code
+
+'''
+
 while x != 0:
     print('1 for Show the seats \n2 for Buy a Ticket \n3 for Statistics ',
           '\n4 for Show booked Tickets User Info \n0 for Exit')
